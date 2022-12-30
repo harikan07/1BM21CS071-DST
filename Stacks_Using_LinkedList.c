@@ -73,7 +73,7 @@ void main()
 	int choice,pos,item;
 	while(1)
 	{
-        printf("\n1.Insert \n2.delete \n3.Display\n");
+        printf("\n1.Push \n2.Pop \n3.Display\n");
 		printf("\n enter your choice\n");
 		scanf("%d",&choice);
 		switch(choice)
